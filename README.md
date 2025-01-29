@@ -1,4 +1,4 @@
-# MNIST Model
+# MNIST Model From Scratch
 
 Beginner-friendly notebooks that demonstrate step-by-step how to create a neural network from scratch without external libraries such as TensorFlow, PyTorch, or Keras.
 
