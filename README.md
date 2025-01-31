@@ -1,7 +1,7 @@
 # MNIST Model From Scratch
 
-Beginner-friendly notebooks that demonstrate step-by-step how to create a neural network from scratch without external libraries such as TensorFlow, PyTorch, or Keras.
+Educational, beginner-friendly notebooks with step-by-step documentation on how to create a fully modular neural network from scratch (no TensorFlow, PyTorch, or Keras).
 
-If you are struggling with the calculus or linear algebra within neural networks, you are exactly who I built these notebooks for. There is a lot of help to reinforce these concepts, but these notebooks still require some degree of knowledge on the subjects.
+If you are struggling with the mathematics or concepts behind neural networks, these notebooks can help reinforce these concepts. However, they still assume you have at least some previous knowledge on the subjects.
 
-I reccomend starting with the `Neural_Network.ipynb` notebook if you are unfamiliar with object-oriented programming (OOP) because it is easier to follow along with. Otherwise, start with the `Neural_Network_OOP.ipynb` notebook because it is more modular.
+I recommend starting with the `Neural_Network_OOP.ipynb` notebook because it is easier to manage, but the `Neural_Network.ipynb` notebook is a great alternative if object-oriented programming (OOP) is still somewhat unfamiliar to you.
